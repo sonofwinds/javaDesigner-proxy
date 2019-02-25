@@ -7,7 +7,7 @@ import com.service.impl.BusinessFooImpl;
 public class Test {
 
 	/**
-	 * @param args
+	 * @param 动态代理
 	 */
 	public static void main(String[] args) {
 		BusinessFoo bfoo = new BusinessFooImpl();
